@@ -1,6 +1,2 @@
-# Daily Practice Codes 💻
-
-This repository contains my daily coding practice.
-
-## Day 1
-- Reverse a string in C
+## Day 5
+- Linear search in C
