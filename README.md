@@ -1,2 +1,2 @@
-## Day 5
-- Linear search in C
+## Day 6
+- Binary search in C
