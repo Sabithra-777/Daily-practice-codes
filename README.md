@@ -1,2 +1,2 @@
-## Day 6
-- Binary search in C
+## Day 7
+- Factorial using recursion in C
