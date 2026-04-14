@@ -1,2 +1,2 @@
-## Day 7
-- Factorial using recursion in C
+## Day 8
+- Prime number check in C
