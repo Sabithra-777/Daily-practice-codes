@@ -1,2 +1,2 @@
-## Day 8
-- Prime number check in C
+## Day 9
+- Count digits in C
