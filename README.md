@@ -1,2 +1,2 @@
-## Day 10
-- Reverse a number in C
+## Day 11
+- Sum of digits in C
