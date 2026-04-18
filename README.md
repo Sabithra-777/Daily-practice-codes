@@ -1,2 +1,2 @@
-## Day 11
-- Sum of digits in C
+## Day 12
+- Palindrome number in C
