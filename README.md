@@ -1,2 +1,2 @@
-## Day 12
-- Palindrome number in C
+## Day 13
+- Armstrong number in C
