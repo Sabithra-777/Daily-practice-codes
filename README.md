@@ -1,2 +1,2 @@
-## Day 13
-- Armstrong number in C
+## Day 14
+- Swap two numbers (with & without temp)
