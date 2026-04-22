@@ -1,2 +1,2 @@
-## Day 15
-- Largest of 3 numbers in C
+## Day 16
+- Even or Odd check in C
