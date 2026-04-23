@@ -1,2 +1,2 @@
-## Day 16
-- Even or Odd check in C
+## Day 17
+- Leap year check in C
