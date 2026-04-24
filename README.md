@@ -1,2 +1,2 @@
-## Day 17
-- Leap year check in C
+## Day 18
+- Multiplication table in C
