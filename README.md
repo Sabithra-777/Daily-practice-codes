@@ -1,2 +1,2 @@
-## Day 18
-- Multiplication table in C
+## Day 19
+- Sum of first n natural numbers in C
