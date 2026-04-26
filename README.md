@@ -1,2 +1,2 @@
-## Day 19
-- Sum of first n natural numbers in C
+## Day 20
+- Factorial using iterative method in C
