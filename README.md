@@ -1,2 +1,2 @@
-## Day 20
-- Factorial using iterative method in C
+## Day 21
+- Fibonacci using recursion in C
