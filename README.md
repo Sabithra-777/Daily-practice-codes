@@ -1,2 +1,2 @@
-## Day 21
-- Fibonacci using recursion in C
+## Day 22
+- LCM of two numbers in C
