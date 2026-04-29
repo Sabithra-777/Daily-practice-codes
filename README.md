@@ -1,2 +1,2 @@
-## Day 22
-- LCM of two numbers in C
+## Day 23
+- GCD of two numbers in C
