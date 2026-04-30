@@ -1,2 +1,2 @@
-## Day 23
-- GCD of two numbers in C
+## Day 24
+- Armstrong numbers in range in C
