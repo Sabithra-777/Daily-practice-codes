@@ -1,2 +1,2 @@
-## Day 24
-- Armstrong numbers in range in C
+## Day 25
+- Prime numbers in range in C
