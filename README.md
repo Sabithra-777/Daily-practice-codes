@@ -1,2 +1,2 @@
-## Day 25
-- Prime numbers in range in C
+## Day 26
+- Sum of digits in range in C
