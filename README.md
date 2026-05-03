@@ -1,2 +1,2 @@
-## Day 26
-- Sum of digits in range in C
+## Day 27
+- Number pattern (triangle) in C
