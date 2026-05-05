@@ -1,2 +1,2 @@
-## Day 27
-- Number pattern (triangle) in C
+## Day 28
+- Star pyramid pattern in C
