@@ -1,2 +1,2 @@
-## Day 28
-- Star pyramid pattern in C
+## Day 29
+- Matrix addition in C
