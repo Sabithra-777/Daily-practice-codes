@@ -1,2 +1,2 @@
-## Day 29
-- Matrix addition in C
+## Day 30
+- Matrix multiplication in C
