@@ -1,2 +1,2 @@
-## Day 30
-- Matrix multiplication in C
+## Day 31
+- Second largest element in array in C
