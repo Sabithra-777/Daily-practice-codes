@@ -1,2 +1,2 @@
-## Day 31
-- Second largest element in array in C
+## Day 32
+- Remove duplicates from array in C
