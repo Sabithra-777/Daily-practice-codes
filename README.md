@@ -1,2 +1,2 @@
-## Day 32
-- Remove duplicates from array in C
+## Day 33
+- Left rotate array by one position in C
