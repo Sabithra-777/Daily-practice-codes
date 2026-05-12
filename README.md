@@ -1,2 +1,2 @@
-## Day 34
-- Reverse an array in C
+## Day 35
+- Find missing number in array in C
