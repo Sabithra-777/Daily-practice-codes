@@ -1,2 +1,2 @@
-## Day 35
-- Find missing number in array in C
+## Day 36
+- Check if array is sorted in C
