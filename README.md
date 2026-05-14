@@ -1,2 +1,2 @@
-## Day 36
-- Check if array is sorted in C
+## Day 37
+- Merge two arrays in C
