@@ -1,2 +1,2 @@
-## Day 37
-- Merge two arrays in C
+## Day 38
+- Frequency of elements in array in C
