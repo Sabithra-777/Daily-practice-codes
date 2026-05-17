@@ -1,2 +1,2 @@
-## Day 39
-- Transpose of matrix in C
+## Day 40
+- Diagonal sum of matrix in C
