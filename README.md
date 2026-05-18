@@ -1,2 +1,2 @@
-## Day 40
-- Diagonal sum of matrix in C
+## Day 41
+- String length without strlen() in C
