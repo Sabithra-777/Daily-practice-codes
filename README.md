@@ -1,2 +1,2 @@
-## Day 41
-- String length without strlen() in C
+## Day 42
+- String copy without strcpy() in C
