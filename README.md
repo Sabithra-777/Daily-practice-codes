@@ -1,2 +1,2 @@
-## Day 42
-- String copy without strcpy() in C
+## Day 43
+- Reverse string without strrev() in C
