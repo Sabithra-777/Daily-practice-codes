@@ -1,2 +1,2 @@
-## Day 43
-- Reverse string without strrev() in C
+## Day 44
+- String comparison without strcmp() in C
