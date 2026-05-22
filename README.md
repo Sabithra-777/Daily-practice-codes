@@ -1,2 +1,2 @@
-## Day 44
-- String comparison without strcmp() in C
+## Day 45
+- Count vowels and consonants in string in C
