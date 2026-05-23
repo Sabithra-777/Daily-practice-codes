@@ -1,2 +1,2 @@
-## Day 45
-- Count vowels and consonants in string in C
+## Day 46
+- Check anagram strings in C
