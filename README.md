@@ -1,2 +1,2 @@
-## Day 46
-- Check anagram strings in C
+## Day 47
+- Palindrome string check in C
