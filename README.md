@@ -1,2 +1,2 @@
-## Day 47
-- Palindrome string check in C
+## Day 48
+- Find duplicate characters in string in C
