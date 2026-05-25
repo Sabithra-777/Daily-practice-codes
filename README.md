@@ -1,2 +1,2 @@
-## Day 48
-- Find duplicate characters in string in C
+## Day 49
+- Remove spaces from string in C
