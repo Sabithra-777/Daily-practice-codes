@@ -1,2 +1,2 @@
-## Day 49
-- Remove spaces from string in C
+## Day 50
+- Count words in string in C
