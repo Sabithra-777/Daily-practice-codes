@@ -1,2 +1,2 @@
-## Day 51
-- Bubble sort in C
+## Day 52
+- Selection sort in C
