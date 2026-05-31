@@ -1,2 +1,2 @@
-## Day 52
-- Selection sort in C
+## Day 53
+- Insertion sort in C
