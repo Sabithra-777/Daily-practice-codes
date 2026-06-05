@@ -1,2 +1,2 @@
-## Day 53
-- Insertion sort in C
+## Day 54
+- Linear search in C
