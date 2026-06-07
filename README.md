@@ -1,2 +1,2 @@
-## Day 54
-- Linear search in C
+## Day 55
+- Binary search in C
