@@ -1,2 +1,2 @@
-## Day 55
-- Binary search in C
+## Day 56
+- Recursive Binary Search in C
