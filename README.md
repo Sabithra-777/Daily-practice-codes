@@ -1,2 +1,2 @@
-## Day 56
-- Recursive Binary Search in C
+## Day 57
+- Factorial using recursion in C
