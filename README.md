@@ -1,2 +1,2 @@
-## Day 57
-- Factorial using recursion in C
+## Day 58
+- Fibonacci series using recursion in C
