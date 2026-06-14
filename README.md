@@ -1,2 +1,2 @@
-## Day 58
-- Fibonacci series using recursion in C
+## Day 59
+- Sum of array elements using recursion in C
