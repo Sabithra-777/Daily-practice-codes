@@ -1,2 +1,2 @@
-## Day 59
-- Sum of array elements using recursion in C
+## Day 60
+- Find maximum element in array using recursion in C
