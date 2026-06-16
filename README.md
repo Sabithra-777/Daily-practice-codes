@@ -1,2 +1,2 @@
-## Day 60
-- Find maximum element in array using recursion in C
+## Day 61
+- Check palindrome array using recursion in C
