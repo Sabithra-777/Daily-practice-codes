@@ -1,2 +1,2 @@
-## Day 61
-- Check palindrome array using recursion in C
+## Day 62
+- Reverse array using recursion in C
