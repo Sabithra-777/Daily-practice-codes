@@ -1,2 +1,2 @@
-## Day 62
-- Reverse array using recursion in C
+## Day 63
+- Check sorted array using recursion in C
