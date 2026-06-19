@@ -1,2 +1,2 @@
-## Day 63
-- Check sorted array using recursion in C
+## Day 64
+- Binary Search using Recursion in C
