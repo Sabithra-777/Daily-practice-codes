@@ -1,2 +1,2 @@
-## Day 64
-- Binary Search using Recursion in C
+## Day 65
+- Power of a number using recursion in C
