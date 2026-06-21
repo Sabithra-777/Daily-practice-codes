@@ -1,2 +1,2 @@
-## Day 65
-- Power of a number using recursion in C
+## Day 66
+- GCD using recursion in C
