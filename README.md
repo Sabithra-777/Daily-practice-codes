@@ -1,2 +1,2 @@
-## Day 66
-- GCD using recursion in C
+## Day 67
+- Decimal to Binary using recursion in C
