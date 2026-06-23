@@ -1,2 +1,2 @@
-## Day 67
-- Decimal to Binary using recursion in C
+## Day 68
+- Sum of digits using recursion in C
