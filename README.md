@@ -1,2 +1,2 @@
-## Day 68
-- Sum of digits using recursion in C
+## Day 69
+- Count digits using recursion in C
