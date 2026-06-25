@@ -1,2 +1,2 @@
-## Day 69
-- Count digits using recursion in C
+## Day 70
+- Reverse a number using recursion in C
