@@ -1,2 +1,2 @@
-## Day 71
-- Check prime number using recursion in C
+## Day 72
+- Tower of Hanoi using recursion in C
