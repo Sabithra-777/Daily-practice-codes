@@ -1,2 +1,2 @@
-## Day 72
-- Tower of Hanoi using recursion in C
+## Day 73
+- Merge Sort in C
