@@ -1,2 +1,2 @@
-## Day 73
-- Merge Sort in C
+## Day 74
+- Quick Sort in C
