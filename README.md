@@ -1,2 +1,2 @@
-## Day 74
-- Quick Sort in C
+## Day 75
+- Heap Sort in C
