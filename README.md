@@ -1,2 +1,2 @@
-## Day 76
-- Matrix Addition in C
+## Day 77
+- Matrix Multiplication in C
