@@ -1,2 +1,2 @@
-## Day 77
-- Matrix Multiplication in C
+## Day 78
+- Transpose of a Matrix in C
