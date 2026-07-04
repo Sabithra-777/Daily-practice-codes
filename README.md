@@ -1,2 +1,2 @@
-## Day 78
-- Transpose of a Matrix in C
+## Day 79
+- Check symmetric matrix in C
