@@ -1,2 +1,2 @@
-## Day 80
-- Spiral Traversal of Matrix in C
+## Day 81
+- Rotate a matrix by 90° clockwise in C
