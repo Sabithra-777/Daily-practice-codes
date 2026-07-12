@@ -1,2 +1,2 @@
-## Day 86
-- Find the row with maximum number of 1s in C
+## Day 87
+- Find the smallest and largest element in a matrix in C
