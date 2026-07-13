@@ -1,2 +1,2 @@
-## Day 87
-- Find the smallest and largest element in a matrix in C
+## Day 88
+- Check if two matrices are equal in C
