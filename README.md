@@ -1,2 +1,2 @@
-## Day 89
-- Check Identity Matrix in C
+## Day 90
+- Check Magic Square in C
