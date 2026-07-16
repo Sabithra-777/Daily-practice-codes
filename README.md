@@ -1,2 +1,2 @@
-## Day 90
-- Check Magic Square in C
+## Day 91
+- Create and display a singly linked list in C
